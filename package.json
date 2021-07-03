@@ -1,0 +1,18 @@
+{
+  "name": "multiaddress",
+  "version": "1.0.0",
+  "description": "generate many ethereum address",
+  "main": "generate.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Renee Krom",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "ethereum-hdwallet": "0.0.18",
+    "fs-extra": "^7.0.0",
+    "json2csv": "^4.2.1",
+    "qrcode": "^1.4.4"
+  }
+}
