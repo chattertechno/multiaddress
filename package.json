@@ -11,6 +11,7 @@
   "dependencies": {
     "bip39": "^2.5.0",
     "ethereum-hdwallet": "0.0.18",
+    "express": "^4.17.1",
     "fs-extra": "^7.0.0",
     "json2csv": "^4.2.1",
     "qrcode": "^1.4.4"
